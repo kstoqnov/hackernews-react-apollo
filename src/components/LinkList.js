@@ -195,7 +195,7 @@ class LinkList extends Component {
         }}
       </Query>
     )
-  }
-}
+  };
+};
 
-export default LinkList
+export default LinkList;
